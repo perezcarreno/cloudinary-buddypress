@@ -1,6 +1,6 @@
 # Cloudinary BuddyPress + Youzer Integration
 
-> Snippets of code that can be added to your bp-custom-php file to enable Cloudinary integration with BuddyPress.
+> Snippets of code that can be added to your bp-custom-php file to enable Cloudinary integration with BuddyPress and Youzer.
 
 ## How does this work?
 
