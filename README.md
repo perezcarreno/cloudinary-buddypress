@@ -8,12 +8,10 @@
 - Step 2: Create a folder on Cloudinary called "community"
 - Step 3: Have your Cloudinary credentials on hand (Cloud name, API Key, API Secret).
 - Step 4: Download [Cloudinary's SDK](https://github.com/cloudinary/cloudinary_php) and place it under your child theme's directory, inside a "lib" folder.
-  Example: "/themes/mytheme/lib/cloudinary_sdk/"
-- Step 5: Copy the code from bp-custom.php and update all appearances of the following variables with your own credentials:
-  $pcc_cloudinary_cloud_name = 'XXXXXXXXXXXXX';
-    $pcc_cloudinary_api_key = 'XXXXXXXXXXXXX';
-  $pcc_cloudinary_api_secret = 'XXXXXXXXXXXXX';
-    $pcc_cloudinary_cloud_name = 'XXXXXXXXXXXXX';
+  - _Example: "/themes/mytheme/lib/cloudinary_sdk/"_
+- Step 5: Copy the code from bp-custom.php and update all appearances of the following variables with your own credentials: -$pcc_cloudinary_cloud_name = 'XXXXXXXXXXXXX';
+  -$pcc_cloudinary_api_key = 'XXXXXXXXXXXXX'; -$pcc_cloudinary_api_secret = 'XXXXXXXXXXXXX';
+  -$pcc_cloudinary_cloud_name = 'XXXXXXXXXXXXX';
 - Step 6: Upload bp-custom.php to your plugins directory (if you don't have it already), or add the new code to your existing bp-custom.php file.
 - Step 7: You're done! :)
 
